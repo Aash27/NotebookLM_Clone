@@ -148,11 +148,6 @@ If not installed:
 
 ---
 
-## 7. (Optional) Upgrade pip
-
-    python -m pip install --upgrade pip
-
----
 
 # ▶️ Run the Application
 
